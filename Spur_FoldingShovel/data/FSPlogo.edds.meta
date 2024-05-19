@@ -1,0 +1,16 @@
+MetaFileClass {
+ Name "{6D7C5470303D61B7}Spur_FoldingShovel/data/FSPlogo.edds"
+ Author "spurgs-pc"
+ ChangeDate 540830421
+ Configurations {
+  TGAResourceClass PC {
+   SourceFile "FSPlogo.tga"
+  }
+  TGAResourceClass XBOX_ONE : PC {
+  }
+  TGAResourceClass PS4 : PC {
+  }
+  TGAResourceClass LINUX : PC {
+  }
+ }
+}

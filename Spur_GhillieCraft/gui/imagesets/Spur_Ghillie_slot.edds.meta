@@ -1,0 +1,16 @@
+MetaFileClass {
+ Name "{5763F16F0D93827C}Spur_GhillieCraft/gui/imagesets/Spur_Ghillie_slot.tga"
+ Author "spurgs-pc"
+ ChangeDate -1932203306
+ Configurations {
+  TGAResourceClass PC {
+   SourceFile "Spur_Ghillie_slot.tga"
+  }
+  TGAResourceClass XBOX_ONE : PC {
+  }
+  TGAResourceClass PS4 : PC {
+  }
+  TGAResourceClass LINUX : PC {
+  }
+ }
+}

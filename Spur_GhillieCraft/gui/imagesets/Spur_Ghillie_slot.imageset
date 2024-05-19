@@ -1,0 +1,20 @@
+ImageSetClass {
+ Name "Spur_Ghillie_slot"
+ RefSize 2048 2048
+ Textures {
+  ImageSetTextureClass {
+   mpix 1
+   path "{5763F16F0D93827C}Spur_GhillieCraft/gui/imagesets/Spur_Ghillie_slot.edds"
+  }
+ }
+ Images {
+  ImageSetDefClass Ghillie {
+   Name "Ghillie"
+   Pos 139 85
+   Size 550 550
+   Flags 0
+  }
+ }
+ Groups {
+ }
+}

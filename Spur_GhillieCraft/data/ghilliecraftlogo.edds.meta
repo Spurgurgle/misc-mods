@@ -1,0 +1,16 @@
+MetaFileClass {
+ Name "{569D175BB88A8116}Spur_GhillieCraft/data/ghilliecraftlogo.edds"
+ Author "spurgs-pc"
+ ChangeDate -1942115626
+ Configurations {
+  TGAResourceClass PC {
+   SourceFile "ghilliecraftlogo.tga"
+  }
+  TGAResourceClass XBOX_ONE : PC {
+  }
+  TGAResourceClass PS4 : PC {
+  }
+  TGAResourceClass LINUX : PC {
+  }
+ }
+}

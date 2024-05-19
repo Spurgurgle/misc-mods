@@ -1,0 +1,16 @@
+MetaFileClass {
+ Name "{569B40206B9BBFB0}BetterWhetStone/Whetstone.edds"
+ Author "spurgs-pc"
+ ChangeDate -812816125
+ Configurations {
+  TGAResourceClass PC {
+   SourceFile "Whetstone.tga"
+  }
+  TGAResourceClass XBOX_ONE : PC {
+  }
+  TGAResourceClass PS4 : PC {
+  }
+  TGAResourceClass LINUX : PC {
+  }
+ }
+}

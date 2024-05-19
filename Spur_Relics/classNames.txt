@@ -1,0 +1,11 @@
+
+Relic_Gameboy
+Relic_Gameboy_Cartridge
+Relic_VHS
+Relic_Nokia
+Relic_Rubiks_cube
+Relic_Walkman
+Relic_Tamagotchi_Black
+Relic_Tamagotchi_Green
+Relic_Tamagotchi_Red
+Relic_Tamagotchi_Pink

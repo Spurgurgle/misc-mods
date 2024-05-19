@@ -1,0 +1,16 @@
+MetaFileClass {
+ Name "{1D012AD0C5997BFD}Bad_Food/Dead_Rat/Dead_rat.edds"
+ Author "spurgs-pc"
+ ChangeDate 1291119142
+ Configurations {
+  TGAResourceClass PC {
+   SourceFile "Dead_rat.tga"
+  }
+  TGAResourceClass XBOX_ONE : PC {
+  }
+  TGAResourceClass PS4 : PC {
+  }
+  TGAResourceClass LINUX : PC {
+  }
+ }
+}
